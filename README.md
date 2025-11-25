@@ -27,7 +27,7 @@ I built this using **Python**, **TensorFlow**, and **Streamlit**. It uses a Conv
 1. **Clone this repo**:
    ```bash
    git clone https://github.com/deepmishra45321/Resume-Analyser.git
-   cd "Resume Analyser"
+   cd "Image Recognization"
    ```
 
 2. **Install the requirements**:
